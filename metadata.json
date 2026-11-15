@@ -1,0 +1,8 @@
+{
+  "name": "AUTO KRIS",
+  "description": "AUTO KRIS — Vente pièces de rechange d'origine à Kinshasa, République Démocratique du Congo. Pièces moteur, freinage, suspension, embrayage, électricité et refroidissement pour toutes marques automobiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
